@@ -1,0 +1,39 @@
+/* body {
+    background: black;
+} */
+
+.username {
+    font-size: 100px;
+    color: yellow;
+}
+
+.username:hover {
+    background-color: rgb(60, 102, 117);
+}
+
+div {
+    font-size: xx-large;
+    text-align: center;
+}
+
+div:hover {
+    font-size: 100px;
+}
+
+
+.profile-pic {
+    height: 200px;
+    width: 400px;
+}
+
+.profile-pic:hover {
+    rotate: 180deg;
+}
+
+.hello {
+    background-color: red;
+}
+.world {
+    background-color: blue;
+}
+
